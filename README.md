@@ -1,1 +1,37 @@
-# Python_ML
+👋 About This Repo
+
+This repository documents my Python learning journey as a 3rd-year CSE (AIML) B.Tech student, with the goal of becoming a Machine Learning Engineer.
+
+I already know the basics of Python, but I’m revising and strengthening fundamentals before moving into Data Science, ML libraries, advanced Python, and ML engineering practices.
+
+This repo contains:
+
+📂 Daily practice problems
+
+📂 Mini projects for each week
+
+📂 Phase-wise structured learning (5 phases)
+
+📑 Notes, resources, and progress tracker
+
+🛣️ Roadmap (5 Phases)
+
+Phase 1: Python Fundamentals
+
+Basics, Data structures, OOP, File handling, Error handling
+
+Phase 2: Python for Data & ML
+
+NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn basics
+
+Phase 3: Advanced Python
+
+Iterators, Generators, Decorators, Logging, Concurrency
+
+Phase 4: ML Engineer-Specific Python
+
+PyTorch/TensorFlow, FastAPI, configs, deployment basics
+
+Phase 5: Projects & Portfolio
+
+Kaggle datasets, end-to-end ML projects, GitHub portfolio
