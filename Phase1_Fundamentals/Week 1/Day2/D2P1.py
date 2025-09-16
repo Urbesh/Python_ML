@@ -14,5 +14,7 @@ elif ch=="Floor" or ch=="Flo" or ch=="floor" or ch=="flo":
     print("The floor division of",n1,"by",n2," is: ",n1//n2)
 elif ch=="Modulus" or ch=="Mod" or ch=="modulus" or ch=="mod":
     print("The modulus division of",n1,"by",n2," is: ",n1%n2)
-else:
+elif ch=="Power" or ch=="Pow" or ch=="power" or ch=="pow":
     print(n1,"to the power",n2," is: ",n1**n2)
+else:
+    print("Invalid operation")
