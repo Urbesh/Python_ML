@@ -4,7 +4,10 @@ Sto=User_input.split()
 User_input2=input("Enter List Elements Seperated by Space for list 2(string input only): ")
 Sto2=User_input2.split()
 print(Sto is Sto2)
-print("(Sto is Sto2) returns False because x is not the same object as y, even if they have the same content")
+if Sto==Sto2:
+    print("(Sto is Sto2) returns False because x is not the same object as y, even if they have the same content")
+else:
+    print(" ")
 if Sto==Sto2:
     print("True")
 else:
