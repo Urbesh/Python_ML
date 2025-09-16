@@ -12,7 +12,7 @@ This repo contains:
 
 📂 Phase-wise structured learning (5 phases)
 
-📑 Notes, resources, and progress tracker
+📑 Notes and resources
 
 🛣️ Roadmap (5 Phases)
 
