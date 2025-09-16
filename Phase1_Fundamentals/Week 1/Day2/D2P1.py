@@ -17,4 +17,4 @@ elif ch=="Modulus" or ch=="Mod" or ch=="modulus" or ch=="mod":
 elif ch=="Power" or ch=="Pow" or ch=="power" or ch=="pow":
     print(n1,"to the power",n2," is: ",n1**n2)
 else:
-    print("Invalid operation")
+    print("Invalid Operation")
