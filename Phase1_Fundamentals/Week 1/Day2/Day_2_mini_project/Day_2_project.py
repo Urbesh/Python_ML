@@ -33,7 +33,7 @@ elif Opt=="%":
 else:
     print("Invalid Operator")
 if x>y:
-    Print(x,"is greater then ",y)
+    print(x,"is greater then ",y)
 elif x<y:
     print(y,"is greater then ",x)
 else:
