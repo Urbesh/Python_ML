@@ -36,6 +36,5 @@ def string_analyzer():
     print(f"Word count: {word_count}")
     print(f"Reversed string: {reversed_sentence}")
     print(f"Is palindrome: {'Yes' if is_palindrome else 'No'}")
-# Call the function when the script is run
 if __name__ == "__main__":
     string_analyzer()
