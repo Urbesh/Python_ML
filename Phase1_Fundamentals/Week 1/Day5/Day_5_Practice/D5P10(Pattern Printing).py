@@ -20,3 +20,4 @@ while i<=n:
         j+=1
     print()
     i+=1
+print("This output is generated using while loop")
