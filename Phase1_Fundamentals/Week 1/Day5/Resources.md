@@ -10,5 +10,5 @@
 
  🎥 Videos
 
-1.For Loop Playlist: https://youtube.com/playlist?list=PLBlnK6fEyqRh6E-UvHKyBhoQNrRDSG-4j&si=N7y9jVGkdmIaaRfU
-2.While Loop Playlist: https://youtube.com/playlist?list=PLBlnK6fEyqRhytV4M_S_Nk5OJt_E0jEbW&si=x9WsdFNvQHlhlbKW
+1. For Loop Playlist: https://youtube.com/playlist?list=PLBlnK6fEyqRh6E-UvHKyBhoQNrRDSG-4j&si=N7y9jVGkdmIaaRfU
+2. While Loop Playlist: https://youtube.com/playlist?list=PLBlnK6fEyqRhytV4M_S_Nk5OJt_E0jEbW&si=x9WsdFNvQHlhlbKW
