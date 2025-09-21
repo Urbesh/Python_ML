@@ -8,7 +8,9 @@ This repo contains:
 
 📂 Daily practice problems
 
-📂 Mini projects for each week
+📂 Daily Mini Project
+
+📂 Projects for each week
 
 📂 Phase-wise structured learning (5 phases)
 
