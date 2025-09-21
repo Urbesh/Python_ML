@@ -32,8 +32,8 @@ while True:
                 student_marks=int(input(f"Enter the Marks obtained by {student_name} in {j}: "))
                 marks.append(student_marks)
                 total_marks=sum(marks)
-                subject={"Name":student_name, "Subjects":student_subject,"Respective_Marks":marks}
-                student_subject_list.append(subject)
+            subject={"Name":student_name, "Subjects":student_subject,"Respective_Marks":marks}
+            student_subject_list.append(subject)
             student={"Name":student_name, "Roll":student_roll, "Total Marks":total_marks}
             students_list.append(student)
     elif user_choise==2:
