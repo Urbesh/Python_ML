@@ -1,0 +1,1 @@
+<p>Day is just the continuation of day 6 and today I will complete the week 1 topics that were mentioned in my road map and perform the weekly project</p>
