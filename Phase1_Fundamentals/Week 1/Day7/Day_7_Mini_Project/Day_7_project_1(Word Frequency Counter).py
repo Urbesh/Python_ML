@@ -9,7 +9,7 @@ paragraph_lines=[]
 print("Enter your paragraph (type 'END' on a new line to finish):")
 while True:
     line = input()
-    if line.upper()=='END':  # Using .upper() to make it case-insensitive
+    if line.upper()=='END':
         break
     paragraph_lines.append(line)
 
