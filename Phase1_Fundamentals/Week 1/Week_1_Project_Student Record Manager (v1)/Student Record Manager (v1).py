@@ -54,8 +54,8 @@ while True:
         n_subjects=len(student_subject)
         for s in students_list:
             average=s['Total Marks']/n_subjects
-            if s["Name"].lower()==Stu_input.lower():
-                print(f"Marks scored by {s['Name']} out of {n_subjects*100} is: {s['Total Marks']}\n So average marks scored by {Stu_input} in every subject is: {average}")
+        if s["Name"].lower()==Stu_input.lower():
+            print(f"Marks scored by {s['Name']} out of {n_subjects*100} is: {s['Total Marks']}\n So average marks scored by {Stu_input} in every subject is: {average}")
         else:
             print("Student not found!")
     elif user_choise==5:
