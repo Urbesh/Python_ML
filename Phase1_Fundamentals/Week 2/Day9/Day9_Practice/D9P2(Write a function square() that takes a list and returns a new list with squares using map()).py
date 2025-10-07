@@ -1,5 +1,5 @@
 #Write a function square() that takes a list and returns a new list with squares using map()
-from math import pow
+import math
 def square(n):
     return lambda a:pow(a,n)
 user_input=input("Enter the as many number as you want separated by a space: ")
