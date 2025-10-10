@@ -12,7 +12,7 @@ This repo contains:
 
 📂 Projects for each week
 
-📂 Phase-wise structured learning (5 phases)
+📂 Phase-wise structured learning (4 phases)
 
 📑 Notes and resources
 
