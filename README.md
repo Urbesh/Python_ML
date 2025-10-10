@@ -26,14 +26,10 @@ Phase 2: Python for Data & ML
 
 NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn basics
 
-Phase 3: Advanced Python
+Phase 3: ML Engineer-Specific Python
 
-Iterators, Generators, Decorators, Logging, Concurrency
+PyTorch/TensorFlow, FastAPI, configs, deployment basics, Types Of ML Algorithms
 
-Phase 4: ML Engineer-Specific Python
-
-PyTorch/TensorFlow, FastAPI, configs, deployment basics
-
-Phase 5: Projects & Portfolio
+Phase 4: Projects & Portfolio
 
 Kaggle datasets, end-to-end ML projects, GitHub portfolio
