@@ -18,7 +18,7 @@ def people_you_may_know(user_id, data):
                     suggestions[friends_friend]=0 #This line is executed only if a friends_friend is encountered for the first time as a potential suggestion 
                     #(meaning they are a friend of one of the current user's friends, are not the current user, and are not already a friend of the current user)
                 suggestions[friends_friend]+=1
-    sorted_suggestions=sorted(suggestions.items(), key=lambda x: x[0])
+    sorted_suggestions=sorted(suggestions.items(), key=lambda x: x[0]) # This line is responsible for sorting the list of suggested users
     return [user for user, count in sorted_suggestions]
 #Load data
 data=load_file("data_3.json")
@@ -29,4 +29,3 @@ suggestions=people_you_may_know(user_id, data)
 print(f"People You May know:\n")
 for suggestion in suggestions:
     print(f"The user with id {suggestion} and name {data['users'][suggestion-1]['name']} is suggested to you.")
-#This function will suggest people you may know based on mutual friends
