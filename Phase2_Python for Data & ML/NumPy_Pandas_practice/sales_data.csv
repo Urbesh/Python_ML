@@ -1,0 +1,9 @@
+OrderID,Product,Category,Quantity,Price,City
+101,Laptop,Electronics,1,50000,Delhi
+102,Mouse,Electronics,3,500,Mumbai
+103,T-shirt,Clothing,2,800,Delhi
+104,Book,Stationery,4,300,Bangalore
+105,Jeans,Clothing,1,1200,Kolkata
+106,Keyboard,Electronics,2,1500,Delhi
+107,Pen,Stationery,10,20,Mumbai
+108,Mobile,Electronics,1,15000,Chennai
