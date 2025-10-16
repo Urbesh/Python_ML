@@ -1,0 +1,10 @@
+[
+  {"EmployeeID": 1, "Name": "Aarav", "Department": "HR", "Experience": 3, "Salary": 35000, "PerformanceScore": 7.5, "WorkFromHomeDays": 10},
+  {"EmployeeID": 2, "Name": "Isha", "Department": "IT", "Experience": 5, "Salary": 60000, "PerformanceScore": 8.9, "WorkFromHomeDays": 6},
+  {"EmployeeID": 3, "Name": "Rohan", "Department": "Finance", "Experience": 2, "Salary": 40000, "PerformanceScore": 6.8, "WorkFromHomeDays": 12},
+  {"EmployeeID": 4, "Name": "Priya", "Department": "IT", "Experience": 7, "Salary": 75000, "PerformanceScore": 9.2, "WorkFromHomeDays": 4},
+  {"EmployeeID": 5, "Name": "Aditya", "Department": "HR", "Experience": 4, "Salary": 42000, "PerformanceScore": 7.0, "WorkFromHomeDays": 9},
+  {"EmployeeID": 6, "Name": "Sneha", "Department": "Finance", "Experience": 6, "Salary": 65000, "PerformanceScore": 8.1, "WorkFromHomeDays": 8},
+  {"EmployeeID": 7, "Name": "Dev", "Department": "IT", "Experience": 1, "Salary": 30000, "PerformanceScore": 6.5, "WorkFromHomeDays": 14},
+  {"EmployeeID": 8, "Name": "Tanya", "Department": "Finance", "Experience": 8, "Salary": 80000, "PerformanceScore": 9.5, "WorkFromHomeDays": 3}
+]
