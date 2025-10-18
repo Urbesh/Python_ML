@@ -1,0 +1,9 @@
+Name,Age,City,Score
+Alice,20.0,Delhi,85
+Bob,22.0,Mumbai,90
+Charlie,19.0,Delhi,78
+David,25.0,Bangalore,92
+Eve,23.0,Mumbai,88
+Frank,,Delhi,80
+Grace,21.0,Kolkata,95
+Hannah,24.0,,87

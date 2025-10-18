@@ -1,0 +1,38 @@
+[
+    {
+        "Date": "2023-01-15",
+        "Region": "North",
+        "Sales": 1200,
+        "Category": "Electronics"
+    },
+    {
+        "Date": "2023-02-18",
+        "Region": "South",
+        "Sales": 850,
+        "Category": "Furniture"
+    },
+    {
+        "Date": "2023-03-05",
+        "Region": "East",
+        "Sales": 950,
+        "Category": "Clothing"
+    },
+    {
+        "Date": "2023-03-22",
+        "Region": "North",
+        "Sales": 1450,
+        "Category": "Electronics"
+    },
+    {
+        "Date": "2023-04-12",
+        "Region": "West",
+        "Sales": 700,
+        "Category": "Furniture"
+    },
+    {
+        "Date": "2023-04-30",
+        "Region": "East",
+        "Sales": 1100,
+        "Category": "Clothing"
+    }
+]
